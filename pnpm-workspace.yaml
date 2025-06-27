@@ -14,6 +14,7 @@ catalogs:
     typescript: ^5.8.3
     unplugin-unused: ^0.5.1
     vitest: ^3.2.4
+    '@oxc-project/runtime': ^0.75.0
 
 onlyBuiltDependencies:
   - esbuild
